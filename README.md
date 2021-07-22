@@ -22,6 +22,6 @@
 [시험13] <!-- (https://docs.google.com/forms/d/e/1FAIpQLSfb63SXC5Psxj1I8NXk4dgH35QaEVm8eJhSIjYbEk7buEocFg/viewform?usp=sf_link)-->    
 
 # test06
-[시험14](https://docs.google.com/forms/d/e/1FAIpQLSddhjh4K9z4ufRFxrPEnZhMNt0QroOemRCY9q2aBDlhQkZFLw/viewform?usp=sf_link)  
-[시험15](https://docs.google.com/forms/d/e/1FAIpQLScC7qAYFXUaxoZEv3OKCX0lYkceDly1SBJjGYgPSdOc1Kuukg/viewform?usp=sf_link)  
+[시험14](https://docs.google.com/forms/d/e/1FAIpQLSddhjh4K9z4ufRFxrPEnZhMNt0QroOemRCY9q2aBDlhQkZFLw/viewform?usp=sf_link){:target="_blank"}  
+[시험15](https://docs.google.com/forms/d/e/1FAIpQLScC7qAYFXUaxoZEv3OKCX0lYkceDly1SBJjGYgPSdOc1Kuukg/viewform?usp=sf_link){:target="_blank"}  
 
